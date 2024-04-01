@@ -30,9 +30,10 @@ export default function ComunidadPage() {
                 </h1>
                 <div className="mx-auto px-11 sm:px-11">
                     <p className="mt-6 text-lg text-gray-700 text-center animate__animated animate__fadeIn">
-                        La localidad de El Tecomate está situada en el Municipio de Francisco Z. Mena (en el Estado de Puebla). Hay 995 habitantes. 
-                        Dentro de todos los pueblos del municipio, ocupa el número 5 en cuanto a número de habitantes. 
-                        El Tecomate está a 145 metros de altitud. Su nombre proviene del mexicano TECOMATL, de que se ha formado el atzequismo tecomate, 
+                        La localidad de El Tecomate está situada en el Municipio de Francisco Z. Mena (en el Estado de Puebla). Cuenta con 995 habitantes 
+                        por lo que ocupa el 5to lugar estadisticamente.
+                        <br />
+                        El Tecomate está a 145 metros sobre el nivel del mar. Su nombre proviene del nahuatl TECOMATL, significa 
                         vasija de forma semiesférica que sirve para tomar agua u otros líquidos.            
                     </p>
                 </div>
@@ -67,19 +68,22 @@ export default function ComunidadPage() {
                     <p  className="mt-6 text-lg text-gray-700 text-center animate__animated animate__fadeIn">
                     Ubicación: Calle 5 de Mayo, El Tecomate, Francisco Z. Mena, Pue.
                     Fundada en el año de 1992<br />
-                    El primer Docente fue el Profe. Noe Barragán Salas
+                    En cuyos inicios el Profe. Noé Barragán Salas fue el pionero en este rubro
                     </p>
                 <h1 className="mt-4 text-4xl font-extrabold leading-10 tracking-tight text-gray-700 text-center sm:leading-none md:mt-2 animate__animated animate__fadeIn">            
                 Directores
                 </h1>
+                <p  className="mt-6 text-lg text-gray-700 text-center animate__animated animate__fadeIn">
+                    En la trayectoria de la Escuela Telesecundaria Lázaro Cárdenas del Río, hemos tenido los siguientes directores:
+                </p>
                 <p className="mt-6 text-lg text-gray-700 text-center animate__animated animate__fadeIn">
-                    Profr. Noe Barragan Salas<br />
+                    Profr. Noé Barragán Salas<br />
                     Profr. Lucas Hernández Madrigal<br />
                     <span style={{display: 'inline-flex', alignItems: 'center'}}>Profr. Adan Sánchez Cruz <FontAwesomeIcon icon={faCross} width={10} height={10} /></span><br />
                     Profe. Juan Javier Sánchez Cruz<br />
                 </p>
                 <h1 className="mt-4 text-4xl font-extrabold leading-10 tracking-tight text-gray-700 text-center sm:leading-none md:mt-2 animate__animated animate__fadeIn">            
-                Profesores
+                Plantilla actual: 
                 </h1>
                 <p className="mt-6 text-lg text-gray-700 text-center animate__animated animate__fadeIn">
                     Profr. Juan Javier Sánchez Cruz<br />

@@ -31,13 +31,14 @@ export default function EventoPage () {
                 <div className="mx-auto px-11 sm:px-11">
                     <p className="mt-6 text-lg text-gray-700 text-center animate__animated animate__fadeIn">
                         Con el propósito de reconocer el impacto de Contenidos curriculares y Procesos de desarrollo de aprendizaje, mediante Proyectos de Integración Comunitaria (PIC)
-                        a partir de las situaciones problemáticas en el contexto escolar y/o comunitario y acciones que hayan emprendido en las Escuelas Telesecundarias del Estado de Puebla.                
+                        a partir de las situaciones problemáticas en el contexto escolar y/o comunitario y acciones que hayan emprendido en las Escuelas Telesecundarias del Estado de Puebla.
+                        En el Estado de Puebla hemos organizado el evento antes mencionado              
                     </p>
                 </div>
             </div>
             <div className="mx-auto px-11 sm:px-11 ">
                 <h1 className="mt-4 text-4xl font-extrabold leading-10 tracking-tight text-gray-700 text-center sm:leading-none md:mt-2 animate__animated animate__fadeIn">            
-                Jueces del Evento
+                Jurado calificador del Evento
                 </h1>
                 <p className="mt-6 text-lg text-gray-700 text-center animate__animated animate__fadeIn">
                     Mtra. Yanet Diaz Vargas<br />
