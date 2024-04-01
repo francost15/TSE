@@ -19,7 +19,7 @@ export default function PatrocinadoresPage() {
         { nombre: 'Ing. Pedro Hernández Bustos', cargo: '', imagenUrl: 'https://tailone.tailwindtemplate.net/src/img/dummy/avatar1.png' },
         { nombre: 'Profr. Hermelindo Ortiz Iturbide', cargo: '', imagenUrl: 'https://tailone.tailwindtemplate.net/src/img/dummy/avatar2.png' },
         { nombre: 'Profr. Abacú Mariano Francisco', cargo: '', imagenUrl: 'https://tailone.tailwindtemplate.net/src/img/dummy/avatar4.png' },
-        { nombre: 'Ing. Humberto Santiago Hernández', cargo: 'Gerente de WimxMovil', imagenUrl: 'https://tailone.tailwindtemplate.net/src/img/dummy/avatar1.png' },
+        { nombre: 'Ing. Humberto Santiago Hernández', cargo: 'CEO & Fundador de Wimx Movil', imagenUrl: 'https://tailone.tailwindtemplate.net/src/img/dummy/avatar1.png' },
         { nombre: 'C. Narciso Cruz Hernández', cargo: '', imagenUrl: 'https://tailone.tailwindtemplate.net/src/img/dummy/avatar2.png' },
         { nombre: 'C. Erika Lara García', cargo: '', imagenUrl: 'https://tailone.tailwindtemplate.net/src/img/dummy/avatar3.png' },
         { nombre: 'C. Guillermo Martínez Magdalena', cargo: '', imagenUrl: 'https://tailone.tailwindtemplate.net/src/img/dummy/avatar2.png' },
@@ -29,6 +29,7 @@ export default function PatrocinadoresPage() {
         { nombre: 'C. Berenice Acundo Hernández', cargo: '', imagenUrl: 'https://tailone.tailwindtemplate.net/src/img/dummy/avatar3.png' },
         { nombre: 'C. Jose Martínez Martínez', cargo: '', imagenUrl: 'https://tailone.tailwindtemplate.net/src/img/dummy/avatar4.png' },
         { nombre: 'Lic. Gildardo Vargas García', cargo: '', imagenUrl: 'https://tailone.tailwindtemplate.net/src/img/dummy/avatar1.png' },
+        { nombre: 'Profra. Ciria Gabino Mendoza', cargo: '', imagenUrl: 'https://tailone.tailwindtemplate.net/src/img/dummy/avatar3.png' },
     ];
 
     return (

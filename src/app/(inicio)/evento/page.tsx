@@ -30,7 +30,7 @@ export default function EventoPage () {
                 </h1>
                 <div className="mx-auto px-11 sm:px-11">
                     <p className="mt-6 text-lg text-gray-700 text-center animate__animated animate__fadeIn">
-                        Con el propósito de reconocer el impacto de Contenidos curriculares y Procesos de desarrollo de aprendizaje, mediante Proyectos de Integración Comunitaria (PIC)
+                        Reconocer el impacto de Contenidos curriculares y Procesos de desarrollo de aprendizaje, mediante Proyectos de Integración Comunitaria (PIC)
                         a partir de las situaciones problemáticas en el contexto escolar y/o comunitario y acciones que hayan emprendido en las Escuelas Telesecundarias del Estado de Puebla.
                         En el Estado de Puebla hemos organizado el evento antes mencionado              
                     </p>
