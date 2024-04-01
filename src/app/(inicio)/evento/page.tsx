@@ -34,6 +34,25 @@ export default function EventoPage () {
                     </p>
                 </div>
             </div>
+            <div className="mx-auto px-11 sm:px-11 ">
+                <h1 className="mt-4 text-4xl font-extrabold leading-10 tracking-tight text-gray-700 text-center sm:leading-none md:mt-2 animate__animated animate__fadeIn">            
+                Jueces del Evento
+                </h1>
+                <p className="mt-6 text-lg text-gray-700 text-center animate__animated animate__fadeIn">
+                    Mtra. Yanet Diaz Vargas<br />
+                    Mtro. Domingo Ortiz Huidobro<br />
+                    Mtra. Angélica del Angel Villegas<br />
+                    Mtra. Oralia Leyva San Juan <br />
+                    Mtro. Juan Javier Sánchez Cruz<br />
+                    Mtra. Ana Lilia Cabrera Torres <br />
+                    Mtro. Edgar Sampayo Ordoñez <br />
+                    C. Lucia Badillo Velázquez <br />
+                    C. Ariadna Bernabé Gutiérrez <br />
+                    C. Edgar Paredes Xochihua <br />
+                    Mtra. Marion Alejandra Fuentes Vazquez <br />
+                    C. Martha del Angel Villegas <br />
+                </p>
+                </div>
         </div>
     )
 }
