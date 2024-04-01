@@ -80,7 +80,7 @@ export default function ComunidadPage() {
                     Profr. Noé Barragán Salas<br />
                     Profr. Lucas Hernández Madrigal<br />
                     <span style={{display: 'inline-flex', alignItems: 'center'}}>Profr. Adan Sánchez Cruz <FontAwesomeIcon icon={faCross} width={10} height={10} /></span><br />
-                    Profe. Juan Javier Sánchez Cruz<br />
+                    Profr. Juan Javier Sánchez Cruz<br />
                 </p>
                 <h1 className="mt-4 text-4xl font-extrabold leading-10 tracking-tight text-gray-700 text-center sm:leading-none md:mt-2 animate__animated animate__fadeIn">            
                 Plantilla actual: 
