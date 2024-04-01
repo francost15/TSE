@@ -1,5 +1,6 @@
 import dynamic from 'next/dynamic';
 import 'animate.css';
+import Image from 'next/image';
 
 export const metadata = {
     title: 'Evento Ts',
@@ -52,6 +53,9 @@ export default function EventoPage () {
                     Mtra. Marion Alejandra Fuentes Vazquez <br />
                     C. Martha del Angel Villegas <br />
                 </p>
+                <div className='mt-2'>
+                <Image className="mx-auto" src={"/assets/lona.jpeg"} alt={"lona"} width={700} height={700} />
+                </div>
                 </div>
         </div>
     )
