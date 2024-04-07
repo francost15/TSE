@@ -29,6 +29,7 @@ export default function PatrocinadoresPage() {
         { nombre: 'C. Berenice Acundo Hernández', cargo: '', imagenUrl: 'https://tailone.tailwindtemplate.net/src/img/dummy/avatar3.png' },
         { nombre: 'C. Jose Martínez Martínez', cargo: '', imagenUrl: 'https://tailone.tailwindtemplate.net/src/img/dummy/avatar4.png' },
         { nombre: 'Lic. Gildardo Vargas García', cargo: '', imagenUrl: 'https://tailone.tailwindtemplate.net/src/img/dummy/avatar1.png' },
+        { nombre: 'Lic. Victor Vargas García', cargo: '', imagenUrl: 'https://tailone.tailwindtemplate.net/src/img/dummy/avatar1.png' },
         { nombre: 'Profra. Ciria Gabino Mendoza', cargo: '', imagenUrl: 'https://tailone.tailwindtemplate.net/src/img/dummy/avatar3.png' },
     ];
 
